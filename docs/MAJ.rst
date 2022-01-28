@@ -63,7 +63,7 @@ Méthode classique
 
 ::
 
-   source <geonature>/backendvenv/bin/activate
+   source <geonature>/backend/venv/bin/activate
    geonature update_module_configuration MONITORINGS
 
 
